@@ -1,4 +1,4 @@
-# Aulas sobre React - Prof. Anderson Vanin
+# Aulas sobre React - Breno Cardozo Fagundes(Mestradas por Anderson Vanin)
 
 ![image](https://user-images.githubusercontent.com/53703505/189367840-18a81b31-2bff-4d18-920e-490e60de07f2.png)
 
